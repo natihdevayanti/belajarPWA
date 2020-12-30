@@ -1,0 +1,23 @@
+{
+"products": 
+[{"id":1,"first_name":"Waterbuck, common","category":"Maroon"},
+{"id":2,"first_name":"Southern right whale","category":"Yellow"},
+{"id":3,"first_name":"Weaver, sociable","category":"Violet"},
+{"id":4,"first_name":"Squirrel, smith's bush","category":"Fuscia"},
+{"id":5,"first_name":"Frog (unidentified)","category":"Purple"},
+{"id":6,"first_name":"Saddle-billed stork","category":"Purple"},
+{"id":7,"first_name":"Blue peacock","category":"Goldenrod"},
+{"id":8,"first_name":"Red-necked wallaby","category":"Goldenrod"},
+{"id":9,"first_name":"Trumpeter, dark-winged","category":"Orange"},
+{"id":10,"first_name":"Cormorant, large","category":"Orange"},
+{"id":11,"first_name":"Macaque, pig-tailed","category":"Indigo"},
+{"id":12,"first_name":"Fox, blue","category":"Violet"},
+{"id":13,"first_name":"Siskin, pine","category":"Mauv"},
+{"id":14,"first_name":"African buffalo","category":"Mauv"},
+{"id":15,"first_name":"American racer","category":"Khaki"},
+{"id":16,"first_name":"Darwin ground finch (unidentified)","category":"Khaki"},
+{"id":17,"first_name":"Striated heron","category":"Goldenrod"},
+{"id":18,"first_name":"Indian leopard","category":"Green"},
+{"id":19,"first_name":"Blue wildebeest","category":"Crimson"},
+{"id":20,"first_name":"Deer, spotted","category":"Purple"}]
+}
